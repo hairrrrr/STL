@@ -1,0 +1,3 @@
+D:/Code/cpp/memory_manage/cmake-build-debug/CMakeFiles/memory_manage.dir
+D:/Code/cpp/memory_manage/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/cpp/memory_manage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
